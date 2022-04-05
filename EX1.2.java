@@ -60,3 +60,4 @@ Enter number:
 small positive
 */
 
+//Output not correctly given
